@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FastApi Custom backend for Amazon Clone<br>👯 I’m looking to collaborate on open source flutter projects.<br>🌱 I’m currently learning the system design of large scale systems.<br>
+👯 I’m looking to collaborate on open source flutter projects.<br>
 
 
 ## 🌐 Socials:
